@@ -2,7 +2,7 @@
 
 NBA data using Python module nba_api¶
 
-nba_api is a Python package for accessing NBA.com API data and can be accessed here: https://github.com/swar/nba_api
+nba_api is a Python package for using NBA.com API data and can be accessed here: https://github.com/swar/nba_api
 
 The project is maintained by Swar Patel and collaborators, who provide extensive and accessible documentation for using the nba.com API.
 
