@@ -10,4 +10,6 @@ The package is large and contains a lot of information. This tutorial is for beg
 
 The full package index is here: https://github.com/swar/nba_api/blob/master/docs/table_of_contents.md
 
+
+
 ![download](https://user-images.githubusercontent.com/60848308/151699494-4bf330d5-8f3e-400c-bf93-8184d66d8687.png)
